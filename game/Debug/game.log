@@ -1,0 +1,13 @@
+﻿  game.cpp
+C:\Dev\game dev\raylib-stuff\game\game\game.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Dev\game dev\raylib-stuff\game\game\game.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  main.cpp
+C:\Dev\game dev\raylib-stuff\game\game\game.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  player.cpp
+C:\Dev\game dev\raylib-stuff\game\game\player.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Dev\game dev\raylib-stuff\game\game\player.cpp(7,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Dev\game dev\raylib-stuff\game\game\player.cpp(7,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Dev\game dev\raylib-stuff\game\game\player.cpp(7,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Dev\game dev\raylib-stuff\game\game\player.cpp(7,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  game.vcxproj -> C:\Dev\game dev\raylib-stuff\game\Debug\game.exe
